@@ -221,20 +221,19 @@ function create_config( )
     "all",
     "helprealm"
     },
-    sudo_users = {94704012},--Sudo users
+    sudo_users = {112432434},--Sudo users
     disabled_channels = {},
-    realm = {53167206},--Realms Id
+    realm = {60943520},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V3.5
+    about_text = [[Amour Boom Bot Ver 1.0
 
 Admins
-@WilSoN_DeVeLoPeR
+@BoOoOM
 
 Special thanks to
-@Dawsh_Alfred
+@WilSoN_DeVeLoPeR
 
-our channel
-@W_SaTaN_w_chnnl
+
 ]],
     help_text = [[
 Commands list :
@@ -332,7 +331,7 @@ will return group logs
 !banlist
 will return group ban list
 
-!satan
+!boom
 about bot.
 **U can use: "!" , "/" , "&" , "$". 
 
