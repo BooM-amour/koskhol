@@ -228,13 +228,13 @@ function create_config( )
     about_text = [[W_SaTaN_W V3.5
 
 Admins
-@WilSoN_DeVeLoPeR
+@vvViRuSss
 
 Special thanks to
-@Dawsh_Alfred
+@VvViRuSsS
 
 our channel
-@W_SaTaN_w_chnnl
+@zvirusx
 ]],
     help_text = [[
 Commands list :
