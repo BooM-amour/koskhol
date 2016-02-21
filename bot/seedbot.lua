@@ -221,11 +221,11 @@ function create_config( )
     "all",
     "helprealm"
     },
-    sudo_users = {94704012},--Sudo users
+    sudo_users = {190462913},--Sudo users
     disabled_channels = {},
-    realm = {53167206},--Realms Id
+    realm = {114153320},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V3.5
+    about_text = [[X_ViRuS_X V3.5
 
 Admins
 @vvViRuSss
